@@ -1,0 +1,50 @@
+{
+  "_from": "webdatarocks@1.0.2",
+  "_id": "webdatarocks@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-aqZpT51YRUpgmiHW6/8zqHkfg0euyfdetnJzBU88gMoIx8lCP9zd0w0gGfhogSV5UAycBnJUgXj/ejiQDikUIQ==",
+  "_location": "/webdatarocks",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "webdatarocks@1.0.2",
+    "name": "webdatarocks",
+    "escapedName": "webdatarocks",
+    "rawSpec": "1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "1.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/webdatarocks/-/webdatarocks-1.0.2.tgz",
+  "_shasum": "b16c09765164794f6952cecf989f80f890afec69",
+  "_spec": "webdatarocks@1.0.2",
+  "_where": "C:\\Users\\TaiVo\\Desktop\\Projects\\TDP\\Frontend",
+  "author": {
+    "name": "WebDataRocks"
+  },
+  "bugs": {
+    "url": "https://webdatarocks.com/forum/"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Free web pivot table tool. Created by industry experts for everyone.",
+  "homepage": "https://webdatarocks.com",
+  "keywords": [
+    "pivot",
+    "pivot table",
+    "pivot grid",
+    "analytics",
+    "reporting",
+    "mysql",
+    "csv",
+    "json",
+    "BI",
+    "business intelligence"
+  ],
+  "main": "webdatarocks.js",
+  "name": "webdatarocks",
+  "version": "1.0.2"
+}
